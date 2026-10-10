@@ -35,7 +35,7 @@ Food Delivery Analytics is a data analytics project focused on exploring food de
 
 📸 Dashboard Preview
 
-[Food Delivery Analytics Dashboard](food_dashboard.png)
+![Food Delivery Analytics Dashboard](screenshots/food_dashboard.png)
 
 📁 Project Structure
 
